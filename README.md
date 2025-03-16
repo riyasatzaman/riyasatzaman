@@ -1,4 +1,8 @@
-## Heyy there 👋
+
+
+
+
+<h1>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 My name is Riyasat, and I'm navigating the full stack, one feature at a time!
 
