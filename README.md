@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Riyasat, and I'm navigating the full stack, one feature at a time!
+
+- 💡 I’m currently working on [KYOSHI](https://github.com/riyasatzaman/kyoshi-ai.git), building an AI-powered philosophy teacher for personal growth.
+- 🚀 I recently built [CAPTO](https://github.com/riyasatzaman/Capto-AI-Image-Captioning.git), the AI caption generator that turns your images into captivating stories
+- 👯 Let's build something awesome! I'm looking to team up on full-stack projects and create something cool.
+  - Send me ideas to riyasatzaman@gmail.com
+
+
 <!--
 **riyasatzaman/riyasatzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
