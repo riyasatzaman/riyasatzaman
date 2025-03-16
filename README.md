@@ -4,13 +4,31 @@
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+</br>
+<p align="center">
+<samp>
 My name is Riyasat, and I'm navigating the full stack, one feature at a time!
-
-- 💡 I’m currently working on [KYOSHI](https://github.com/riyasatzaman/kyoshi-ai.git), building an AI-powered philosophy teacher for personal growth.
-- 🚀 I recently built [CAPTO](https://github.com/riyasatzaman/Capto-AI-Image-Captioning.git), the AI caption generator that turns your images into captivating stories
-- 👯 Let's build something awesome! I'm looking to team up on full-stack projects and create something cool.
-  - Send me ideas to riyasatzaman@gmail.com
-
+</samp>
+</br></br>
+<samp>
+💡 I’m currently working on <a href="https://github.com/riyasatzaman/kyoshi-ai.git">KYOSHI</a>,  
+building an AI-powered philosophy teacher for personal growth.  
+</samp>
+</br></br>
+<samp>
+🚀 I recently built <a href="https://github.com/riyasatzaman/Capto-AI-Image-Captioning.git">CAPTO</a>,  
+the AI caption generator that turns your images into captivating stories.  
+</samp>
+</br></br>
+<samp>
+👯 Let's build something awesome! I'm looking to team up on full-stack projects and create something cool.  
+</samp>
+</br></br>
+<samp>
+📩 Send me your ideas: <a href="mailto:riyasatzaman@gmail.com">riyasatzaman@gmail.com</a>
+</samp>
+</p>
+</br>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
