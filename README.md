@@ -40,12 +40,12 @@ the AI caption generator that turns your images into captivating stories.
 
 ---
 
-<details>
 
 
-<summary>
+
+
 Languages and Tools 🛠:
-</summary>
+
   <br/>
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -83,7 +83,7 @@ Languages and Tools 🛠:
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
-</details>
+
 
 ---
 
