@@ -44,7 +44,7 @@ the AI caption generator that turns your images into captivating stories.
 
 
 
-Languages and Tools 🛠:
+<h3 align="center">Languages and Tools 🛠:</h3>
 
   <br/>
   
