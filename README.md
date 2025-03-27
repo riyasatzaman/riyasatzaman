@@ -7,7 +7,7 @@
 </br>
 <p align="center">
 <samp>
-My name is Riyasat, and I'm navigating the full stack, one feature at a time!
+My name is Riyasat and I'm navigating the full stack, one feature at a time!
 </samp>
 </br></br>
 <samp>
