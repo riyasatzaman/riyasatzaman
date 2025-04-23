@@ -85,7 +85,4 @@ the AI caption generator that turns your images into captivating stories.
 
 
 
----
-
-<>![snake gif](https://github.com/riyasatzaman/riyasatzaman/blob/output/github-snake-dark.svg)
 
