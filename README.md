@@ -8,14 +8,9 @@ Aspiring Data Engineer | Computer Science (BSc) | Statistics Minor
 </br></br>
 
 <samp>
-I focus on building reliable, analytics-ready data pipelines using Python, SQL, and cloud data platforms.  
+I focus on building reliable, analytics-ready data pipelines using Python, SQL, and cloud data platforms. Core interests include data pipelines, ETL systems, data modeling, and cloud-based data infrastructure.  
 </samp>
-</br></br>
 
-<samp>
-Core interests include data pipelines, ETL systems, data modeling, and cloud-based data infrastructure.  
-</samp>
-</br></br>
 
 <samp>
 📍 Edmonton, AB
