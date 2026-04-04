@@ -8,7 +8,7 @@ Aspiring Data Engineer | Computer Science (BSc) | Statistics Minor
 </br></br>
 
 <samp>
-I focus on building reliable, analytics-ready data pipelines using Python, SQL, and cloud data platforms. Core interests include data pipelines, ETL systems, data modeling, and cloud-based data infrastructure.  
+I focus on building reliable, analytics-ready data pipelines using Python, SQL, and cloud data platforms. Core interests include data pipelines, ETL systems, data modeling, and cloud-based data infrastructure. I like building fun projects and messing around with LLMs on the side. 
 </samp>
 
 
@@ -38,9 +38,6 @@ I focus on building reliable, analytics-ready data pipelines using Python, SQL, 
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apache-airflow)&nbsp;
 ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt&logoColor=FF694B)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-05122A?style=flat&logo=amazon-s3)&nbsp;
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
