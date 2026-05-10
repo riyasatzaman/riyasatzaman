@@ -8,7 +8,7 @@ Software Developer & Aspiring Data Engineer | Computer Science (BSc) | Statistic
 <samp>
 I build full-stack web apps, backend APIs, and data-backed systems. Currently expanding 
 into data engineering — pipelines, SQL, and cloud data infrastructure. I like shipping 
-things that work and understanding the data behind them.
+things and tinkering with Ai on the side.
 </samp>
 </br></br>
 <samp>
