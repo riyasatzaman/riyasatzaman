@@ -40,11 +40,9 @@ things and tinkering with Ai on the side.
 <img src="https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apache-airflow" />&nbsp;
 <img src="https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks" />&nbsp;
 <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" />&nbsp;
-<img src="https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt&logoColor=FF694B" />&nbsp;
 <img src="https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake" />&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />&nbsp;
 <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />&nbsp;
-<img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />&nbsp;
 
 </div>
 
